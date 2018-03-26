@@ -1,0 +1,13 @@
+.container a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.forImg {
+  height: 300px;
+  outline: 1px dotted black;
+  margin-bottom: 20px;
+  line-height: 300px;
+  font-size: 36px;
+}
